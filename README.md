@@ -41,7 +41,7 @@ O sistema consome a API oficial do **TMDB** para trazer os filmes em cartaz, det
 ## 📸 Demonstração
 
 <div align="center">
- ![Gravação de tela de 2026-02-06 10-30-15](https://github.com/user-attachments/assets/7e9d3723-17d9-436d-9c72-2603524db027)
+  <img src="https://github.com/DevMoraesss/flixFlime/raw/main/public/demo.gif" width="100%" alt="Demonstração do FlixFilme" />
 </div>
 
 ---
