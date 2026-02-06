@@ -41,7 +41,7 @@ O sistema consome a API oficial do **TMDB** para trazer os filmes em cartaz, det
 ## 📸 Demonstração
 
 <div align="center">
- <img width="1916" height="952" alt="image" src="https://github.com/user-attachments/assets/f9cf397f-fad0-4a8f-b471-11aa7ea41fda" />
+ ![Gravação de tela de 2026-02-06 10-30-15](https://github.com/user-attachments/assets/7e9d3723-17d9-436d-9c72-2603524db027)
 </div>
 
 ---
