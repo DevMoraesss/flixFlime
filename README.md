@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lucide-react/lucide/main/icons/film.svg" width="80" height="80" />
+    <span style="font-size: 80px;">🎬</span>
   <h1>🚀 FlixFilme Next</h1>
   <p><strong>A experiência definitiva para descobrir seus próximos filmes favoritos.</strong></p>
 
@@ -40,10 +40,8 @@ O sistema consome a API oficial do **TMDB** para trazer os filmes em cartaz, det
 
 ## 📸 Demonstração
 
-*(DICA: Adicione aqui um GIF ou Foto do seu projeto rodando na Vercel!)*
-
 <div align="center">
-  <img src="https://github.com/DevMoraesss/flixFlime/raw/main/public/preview.png" width="100%" alt="Preview do FlixFilme" />
+ <img width="1916" height="952" alt="image" src="https://github.com/user-attachments/assets/f9cf397f-fad0-4a8f-b471-11aa7ea41fda" />
 </div>
 
 ---
