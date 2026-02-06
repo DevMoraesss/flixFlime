@@ -1,36 +1,60 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lucide-react/lucide/main/icons/film.svg" width="80" height="80" />
+  <h1>🚀 FlixFilme Next</h1>
+  <p><strong>A experiência definitiva para descobrir seus próximos filmes favoritos.</strong></p>
 
-## Getting Started
+  <p>
+    <img src="https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js" alt="Next.js" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  </p>
+</div>
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🔥 Sobre o Projeto
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+O **FlixFilme** nasceu de uma refatoração completa de uma aplicação React legada. O objetivo foi elevar o nível da interface (UI) e da experiência do usuário (UX), utilizando o que há de mais moderno no ecossistema web: **Next.js (App Router)**, **TypeScript** e **Tailwind CSS**.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+O sistema consome a API oficial do **TMDB** para trazer os filmes em cartaz, detalhes técnicos, trailers e permite que o usuário salve seus filmes favoritos localmente.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### ✨ O que mudou? (Rebuild 2.0)
+- **Design Premium**: Visual dark minimalista com efeitos de *glassmorphism* e animações suaves.
+- **Performance**: Migração para Server Components para um carregamento instantâneo.
+- **Tipagem**: 100% TypeScript para evitar erros e melhorar a manutenção.
+- **Responsividade**: Layout adaptado para mobiles, tablets e desktops.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 🛠️ Tecnologias Utilizadas
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Next.js 15](https://nextjs.org/) - Framework React para produção.
+- [TypeScript](https://www.typescriptlang.org/) - Mais segurança no código.
+- [Tailwind CSS](https://tailwindcss.com/) - Estilização moderna e rápida.
+- [Lucide React](https://lucide.dev/) - Biblioteca de ícones elegantes.
+- [Axios](https://axios-http.com/) - Consumo de API otimizado.
+- [TMDB API](https://www.themoviedb.org/documentation/api) - A maior base de dados de filmes do mundo.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 📸 Demonstração
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+*(DICA: Adicione aqui um GIF ou Foto do seu projeto rodando na Vercel!)*
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+<div align="center">
+  <img src="https://github.com/DevMoraesss/flixFlime/raw/main/public/preview.png" width="100%" alt="Preview do FlixFilme" />
+</div>
+
+---
+
+## 🚀 Como rodar o projeto localmente
+
+### Pré-requisitos
+- Node.js instalado
+- Uma chave de API do [TMDB](https://www.themoviedb.org/)
+
+### Passo a passo
+1. Clone o projeto:
+   ```bash
+   git clone [https://github.com/DevMoraesss/flixFlime.git](https://github.com/DevMoraesss/flixFlime.git)
